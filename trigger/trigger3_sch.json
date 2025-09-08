@@ -1,0 +1,17 @@
+{
+	"name": "trigger3_sch",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Stopped",
+		"pipelines": [],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Minute",
+				"interval": 1,
+				"startTime": "2025-09-09T01:53:00",
+				"timeZone": "India Standard Time"
+			}
+		}
+	}
+}
